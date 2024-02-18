@@ -1,7 +1,7 @@
 Hey👋, My name is Rohan Fulzele<br>I am a Sr. Software Engineer from India working on developing and designing medium to large scale web applications using latest techstacks like React, Nextjs,Nodejs,Azure etc.<br><br> 
 
 ## 💫 About Me:<br> 
-🌍 I am from Maharashtra, India<br>🔭 I’m currently learning Gen AI <br>👯 I’m looking to collaborate with tech communities<br>🌱 I’m currently building begin---.com<br>💬 Ask me anything about Web and tech<br>⚡ Fun fact - I write code only when there is music around 😋<br>✉️ You can contact me at rohan.fulzele@gmail.com
+🌍 I am from Maharashtra, India<br>🔭 I’m currently learning Gen AI, Nextjs 14, and Rust <br>👯 I’m looking to collaborate with tech communities<br>🌱 I’m currently building begin---.com<br>💬 Ask me anything about Web and tech<br>⚡ Fun fact - I write code only when there is music around 😋<br>✉️ You can contact me at rohan.fulzele@gmail.com
 
 
 ## 🌐 Socials:
